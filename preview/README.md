@@ -52,10 +52,16 @@ The contact section shows **9322758844** and **9322658844** as equal business ca
 
 Transport charges are included in quotations. This is stated on the homepage, in ordering guidance and in the enquiry review/message. Delivery timing, payment terms and material availability are confirmed by an owner. Tax and unloading treatment have not been confirmed.
 
-Web product photography is pending: this environment could not access Wikimedia Commons, Pexels or Unsplash to download and verify reusable photographs. The existing local illustrations remain. No GST number, new grades/sizes or document-availability claims have been added.
+No GST number, new grades/sizes or document-availability claims have been added.
 
 ## MS and GI pipe update
 
 The catalogue now lists MS (mild steel) and GI (galvanised iron) pipes. The enquiry form lets customers choose MS, GI or Help me choose; their choice is retained in the review and message. Type/shape/size availability remains subject to quotation confirmation.
 
-The five supplied images are visible in chat but have not been exposed as downloadable attachments in this environment. They have not been installed. This sample still uses the existing illustrations; original image files are needed to finish the photo update.
+## Supplied product images
+
+All five product cards now display images from the ZIP supplied through Google Drive: structural sections, mild steel plates, TMT bars, round bars, and MS & GI pipes. The archive also contained an extra round-bar image; the catalogue uses the wide image selected in chat. The hero illustration remains.
+
+Product images are identified as representative. The sample embeds them and works without external image downloads. The production site serves images locally and loads them lazily. The standalone and production browser checks confirmed that all five images load, the page fits desktop/mobile screens, and the enquiry form still works.
+
+Original source-page links and image licence details were not included in the ZIP; independent reuse-licence verification remains unconfirmed.

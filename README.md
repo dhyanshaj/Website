@@ -26,7 +26,7 @@ These are actual screenshots of the implemented website, captured in desktop Chr
 
 ![Deepa Steel complete desktop page](screenshots/desktop-full-page.png)
 
-The screenshots show the catalogue, company information, ordering guidance and contact sections. This branch publishes the two images for review; it does not deploy the website.
+The screenshots show the catalogue, company information, ordering guidance and contact sections. This branch provides screenshots and downloadable samples for review; it does not deploy the website.
 ## Updated business contacts
 
 Business calling numbers: **9322758844** and **9322658844**, shown one below the other with no separate heading for the second number. WhatsApp enquiries go to **9322758844**.
@@ -35,8 +35,14 @@ Business calling numbers: **9322758844** and **9322658844**, shown one below the
 
 ## Quotation update
 
-Transport charges are included in quotations. The interactive sample, production archive and screenshots reflect this clarification. Existing steel illustrations remain; web photographs are pending source access and licence verification.
+Transport charges are included in quotations. The interactive sample, production archive and screenshots reflect this clarification. All five product cards now use the representative images supplied through Google Drive.
 
 ## MS and GI pipes
 
-The catalogue and enquiry form now include MS and GI pipe types. The sample still uses the existing illustrations: the five images supplied inline in chat are not yet available as downloadable project files. Their installation is pending original file attachments.
+The catalogue and enquiry form now include MS and GI pipe types. The sample now embeds all five supplied product images, so they are available offline.
+
+## Updated product images
+
+[View the desktop product catalogue](screenshots/products-desktop.png) · [View the mobile product catalogue](screenshots/products-mobile.png)
+
+The product images are representative, not photographs of company stock. All five supplied images passed loading checks in the production website and offline sample.
