@@ -43,3 +43,7 @@ The downloaded-file option above lets you review first without putting a preview
 ## Validation notes
 
 The standalone sample passed nine Chromium checks for catalogue rendering, multiple products, validation, review, keyboard focus, mobile navigation and disabled outgoing handoff. It was loaded from a local HTTP server and tested with browser networking disabled afterward. This managed test browser blocks file URLs, so direct file opening could not be independently tested here. The sample contains its own styles, scripts and artwork and needs no external assets. Production testing previously passed 16 business-rule tests and 15 browser checks.
+
+## Business calling numbers
+
+The contact section shows primary number **9322758844**, followed by backup calling number **9322658844**. Both are click-to-call links in the production website. The original primary number remains the WhatsApp enquiry destination. Review-copy contact links remain disabled.

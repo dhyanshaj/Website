@@ -27,3 +27,8 @@ These are actual screenshots of the implemented website, captured in desktop Chr
 ![Deepa Steel complete desktop page](screenshots/desktop-full-page.png)
 
 The screenshots show the catalogue, company information, ordering guidance and contact sections. This branch publishes the two images for review; it does not deploy the website.
+## Updated business contacts
+
+Primary calls / WhatsApp: **9322758844**. Backup calling number, shown below the primary: **9322658844**.
+
+[Desktop contact section](screenshots/contact-desktop.png) · [Mobile contact section](screenshots/contact-mobile.png)
