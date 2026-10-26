@@ -1,3 +1,15 @@
+# Interactive website sample
+
+[Download the interactive preview ZIP](preview/Deepa-Steel-Preview.zip) — download, extract, then open **Deepa-Steel-Preview.html** in Chrome or Edge on your laptop/desktop. No installation or deployment is needed. GitHub displays code for HTML files; download the file to try the actual website.
+
+The full product catalogue, enquiry builder and review screen are included. Outgoing WhatsApp/email/call links are disabled in this review copy. Share the file with your dad for approval.
+
+[Review and free-deployment instructions](preview/README.md)
+
+[Production website ZIP, for deployment after approval](preview/Deepa-Steel-Website.zip)
+
+---
+
 # Deepa Steel — desktop design review
 
 These are actual screenshots of the implemented website, captured in desktop Chromium. They are provided for design review before public deployment.
