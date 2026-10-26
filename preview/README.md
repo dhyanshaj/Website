@@ -47,3 +47,9 @@ The standalone sample passed nine Chromium checks for catalogue rendering, multi
 ## Business calling numbers
 
 The contact section shows **9322758844** and **9322658844** as equal business calling numbers, one below the other, without a separate heading above the second number. Both are click-to-call links in the production website. WhatsApp enquiries go to **9322758844**. Review-copy contact links remain disabled.
+
+## Quotation update
+
+Transport charges are included in quotations. This is stated on the homepage, in ordering guidance and in the enquiry review/message. Delivery timing, payment terms and material availability are confirmed by an owner. Tax and unloading treatment have not been confirmed.
+
+Web product photography is pending: this environment could not access Wikimedia Commons, Pexels or Unsplash to download and verify reusable photographs. The existing local illustrations remain. No GST number, new grades/sizes or document-availability claims have been added.

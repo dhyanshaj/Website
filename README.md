@@ -32,3 +32,7 @@ The screenshots show the catalogue, company information, ordering guidance and c
 Business calling numbers: **9322758844** and **9322658844**, shown one below the other with no separate heading for the second number. WhatsApp enquiries go to **9322758844**.
 
 [Desktop contact section](screenshots/contact-desktop.png) · [Mobile contact section](screenshots/contact-mobile.png)
+
+## Quotation update
+
+Transport charges are included in quotations. The interactive sample, production archive and screenshots reflect this clarification. Existing steel illustrations remain; web photographs are pending source access and licence verification.
