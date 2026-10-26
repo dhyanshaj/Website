@@ -29,6 +29,6 @@ These are actual screenshots of the implemented website, captured in desktop Chr
 The screenshots show the catalogue, company information, ordering guidance and contact sections. This branch publishes the two images for review; it does not deploy the website.
 ## Updated business contacts
 
-Primary calls / WhatsApp: **9322758844**. Backup calling number, shown below the primary: **9322658844**.
+Business calling numbers: **9322758844** and **9322658844**, shown one below the other with no separate heading for the second number. WhatsApp enquiries go to **9322758844**.
 
 [Desktop contact section](screenshots/contact-desktop.png) · [Mobile contact section](screenshots/contact-mobile.png)

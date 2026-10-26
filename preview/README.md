@@ -46,4 +46,4 @@ The standalone sample passed nine Chromium checks for catalogue rendering, multi
 
 ## Business calling numbers
 
-The contact section shows primary number **9322758844**, followed by backup calling number **9322658844**. Both are click-to-call links in the production website. The original primary number remains the WhatsApp enquiry destination. Review-copy contact links remain disabled.
+The contact section shows **9322758844** and **9322658844** as equal business calling numbers, one below the other, without a separate heading above the second number. Both are click-to-call links in the production website. WhatsApp enquiries go to **9322758844**. Review-copy contact links remain disabled.
