@@ -36,3 +36,7 @@ Business calling numbers: **9322758844** and **9322658844**, shown one below the
 ## Quotation update
 
 Transport charges are included in quotations. The interactive sample, production archive and screenshots reflect this clarification. Existing steel illustrations remain; web photographs are pending source access and licence verification.
+
+## MS and GI pipes
+
+The catalogue and enquiry form now include MS and GI pipe types. The sample still uses the existing illustrations: the five images supplied inline in chat are not yet available as downloadable project files. Their installation is pending original file attachments.

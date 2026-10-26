@@ -42,7 +42,7 @@ The downloaded-file option above lets you review first without putting a preview
 
 ## Validation notes
 
-The standalone sample passed nine Chromium checks for catalogue rendering, multiple products, validation, review, keyboard focus, mobile navigation and disabled outgoing handoff. It was loaded from a local HTTP server and tested with browser networking disabled afterward. This managed test browser blocks file URLs, so direct file opening could not be independently tested here. The sample contains its own styles, scripts and artwork and needs no external assets. Production testing previously passed 16 business-rule tests and 15 browser checks.
+The standalone sample passed nine Chromium checks for catalogue rendering, multiple products, validation, review, keyboard focus, mobile navigation and disabled outgoing handoff. It was loaded from a local HTTP server and tested with browser networking disabled afterward. This managed test browser blocks file URLs, so direct file opening could not be independently tested here. The sample contains its own styles, scripts and artwork and needs no external assets. Production testing passed 17 business-rule tests and 15 browser checks, including preservation of the GI pipe choice when editing and reviewing an enquiry.
 
 ## Business calling numbers
 
@@ -53,3 +53,9 @@ The contact section shows **9322758844** and **9322658844** as equal business ca
 Transport charges are included in quotations. This is stated on the homepage, in ordering guidance and in the enquiry review/message. Delivery timing, payment terms and material availability are confirmed by an owner. Tax and unloading treatment have not been confirmed.
 
 Web product photography is pending: this environment could not access Wikimedia Commons, Pexels or Unsplash to download and verify reusable photographs. The existing local illustrations remain. No GST number, new grades/sizes or document-availability claims have been added.
+
+## MS and GI pipe update
+
+The catalogue now lists MS (mild steel) and GI (galvanised iron) pipes. The enquiry form lets customers choose MS, GI or Help me choose; their choice is retained in the review and message. Type/shape/size availability remains subject to quotation confirmation.
+
+The five supplied images are visible in chat but have not been exposed as downloadable attachments in this environment. They have not been installed. This sample still uses the existing illustrations; original image files are needed to finish the photo update.
