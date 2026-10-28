@@ -50,3 +50,7 @@ The product images are representative, not photographs of company stock. All fiv
 ## GST and supplied grades
 
 The contact section displays GSTIN **27AAAFD6314J1ZL**. The product catalogue lists supplied grades **E-250 / E-350**; applicability and specifications for each selected product are confirmed on enquiry. These details were supplied by the owner; registration status has not been independently verified. The full-page screenshot and sample reflect this update.
+
+## Alternative: upload one production HTML file
+
+[Download the one-file production ZIP](live/Deepa-Steel-One-File.zip) and extract index.html. Upload just that file as a new deployment in the existing project. All five images, styles and scripts are embedded; normal WhatsApp/call/email links work. Do not combine it with the old _headers or asset folders. [Instructions and verification details](live/README.md).
