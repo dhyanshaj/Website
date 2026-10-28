@@ -52,7 +52,7 @@ The contact section shows **9322758844** and **9322658844** as equal business ca
 
 Transport charges are included in quotations. This is stated on the homepage, in ordering guidance and in the enquiry review/message. Delivery timing, payment terms and material availability are confirmed by an owner. Tax and unloading treatment have not been confirmed.
 
-No GST number, new grades/sizes or document-availability claims have been added.
+The contact section now shows the owner-supplied GSTIN **27AAAFD6314J1ZL**. The product catalogue lists supplied grades **E-250 / E-350**, with applicability to the selected product confirmed on enquiry. No new sizes or document-availability claims have been added.
 
 ## MS and GI pipe update
 

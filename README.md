@@ -31,7 +31,7 @@ The screenshots show the catalogue, company information, ordering guidance and c
 
 Business calling numbers: **9322758844** and **9322658844**, shown one below the other with no separate heading for the second number. WhatsApp enquiries go to **9322758844**.
 
-[Desktop contact section](screenshots/contact-desktop.png) · [Mobile contact section](screenshots/contact-mobile.png)
+[Complete page, including current contact details](screenshots/desktop-full-page.png)
 
 ## Quotation update
 
@@ -46,3 +46,7 @@ The catalogue and enquiry form now include MS and GI pipe types. The sample now 
 [View the desktop product catalogue](screenshots/products-desktop.png) · [View the mobile product catalogue](screenshots/products-mobile.png)
 
 The product images are representative, not photographs of company stock. All five supplied images passed loading checks in the production website and offline sample.
+
+## GST and supplied grades
+
+The contact section displays GSTIN **27AAAFD6314J1ZL**. The product catalogue lists supplied grades **E-250 / E-350**; applicability and specifications for each selected product are confirmed on enquiry. These details were supplied by the owner; registration status has not been independently verified. The full-page screenshot and sample reflect this update.
