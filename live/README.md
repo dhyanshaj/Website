@@ -15,3 +15,7 @@ Validation: 16 local Chromium checks passed, including all five images, enquiry 
 The existing hosted URL returned 404 for its homepage and expected assets. Its public URL is shown as enabled in the user's dashboard. The exact Cloudflare-side cause is not confirmed. This alternative removes nested folders and separate asset requests from the upload; success on Cloudflare is not claimed until the user deploys it and the live URL is checked.
 
 Rebuild from repository root: npm run build, then node scripts/build-single-file.mjs. Verify with node scripts/browser-check.mjs --single-file. Do not edit the generated HTML manually: rebuild it so the embedded CSP hashes stay correct.
+
+## Google Search Console verification
+
+The production index.html includes the owner-provided google-site-verification meta tag in its head. Upload this updated file as the production deployment, then click Verify in Search Console. Retain the tag in future versions. Adding it locally does not establish Google verification or indexing; those are confirmed in Search Console after deployment.
